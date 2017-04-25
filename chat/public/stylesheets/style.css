@@ -1,0 +1,19 @@
+
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+}
+
+.center{
+  width:760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+canvas{
+  margin: auto;
+  position: relative;
+}
